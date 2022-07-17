@@ -7,10 +7,16 @@ Collect and analyze weather data across cities worldwide. Create a Pandas DataFr
 Add the weather description to the weather data popup. From the list of potential travel destinations, choose four cities to create a travel itinerary. Using the Google Maps Directions API, create a travel route between the four cities as well as a marker layer map.
 
 
-### Vacation Search
+### Examples
+
+#### Heatmaps and Markers using GoogleMaps API
+![image_name](/weather_data/weather_heatmap_markerlayer_example.png)
+
+
+#### Vacation Search Destinations
 ![image_name](/Vacation_Search/WeatherPy_vacation_map.png)
 
 
-### Vacation Iternerary
+#### Vacation Iternerary
 ![image_name](/Vacation_Itinerary/WeatherPy_travel_map_markers_closed.png)
 ![image_name](/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
